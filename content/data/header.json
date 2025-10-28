@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/a-professional-logo-design-for-a-real-es_w5GCX0RWTYeqAh5yEQlaVA_w1XVK_9_TwG218T4d0DzLg-removebg-preview.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
